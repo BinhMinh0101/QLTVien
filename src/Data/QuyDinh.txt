@@ -1,0 +1,5 @@
+IdQuyDinh   -       TênQuyDinh        -       TienPhat
+1-Rách-10000
+2-Trễ-5000
+3-Rách và trễ-20000
+4-Bình thường-0

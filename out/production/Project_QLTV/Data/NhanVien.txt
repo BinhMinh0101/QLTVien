@@ -1,0 +1,6 @@
+MSSV        -    HọTên       -   Phai   -   ĐịaChỉ      -   SĐT     -   NgàySinh - Ngàyvàolàm
+1-QuangNgocTrieu-Nam-SGU-0123456789-12/07/2001-12/08/2021
+2-QuangNgocTram-Nam-SGU-0123456789-12/07/2001-12/08/2021
+
+3-Minh-nam-SGU-0123456789-20/07/2004-20/07/2004
+4-1-nam-1-0123456789-12/07/2000-12/07/2000

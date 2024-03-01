@@ -1,0 +1,3 @@
+IdLoai     -     TenLoai
+1-coca
+2-Pepsi

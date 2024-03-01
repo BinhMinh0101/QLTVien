@@ -1,0 +1,4 @@
+IdLoai     -     TenLoai
+1-naaaaaaaaa
+2-bo
+3-cho

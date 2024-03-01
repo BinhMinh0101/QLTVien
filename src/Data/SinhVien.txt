@@ -1,0 +1,7 @@
+MSSV        -    HọTên       -   Phai   -   Lớp -   ĐịaChỉ      -   SĐT     -   NgàySinh
+1-QuangNgocTrieu-Nam-DCT11810-VN-0845814481-12/07/2000
+2-Quan-Nam-DCT11811-VN-0845814481-12/07/2000
+4-QuangNgocTram-nữ-DCT11810-SGU-0123456789-20/03/2020
+6-Đông phương tiểu ngọc-nam-OOP-SGU-0123456789-09/02/2021
+7-Nguyễn Bình Minh-Nam-DCT1203-VN-0961197985-01/01/2002
+8-Nguyễn Bình Minh-nam-DCT1203-Hồ Chí Minh-0961197985-01/01/2002
